@@ -16,6 +16,16 @@ public class Main {
 		String q=nome.trim(); //rimuove gli spazi all'inizio e alla fine
 		String p=nome.replace('c','b'); //sostituisce il primo char con il secondo
 		
+		System.out.println(nome);
+		System.out.println(r);
+		System.out.println(e);
+		System.out.println(s);
+		System.out.println(u);
+		System.out.println(l);
+		System.out.println(t);
+		System.out.println(a);
+		System.out.println(q);
+		System.out.println(p);
 	}
 
 }
